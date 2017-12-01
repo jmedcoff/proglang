@@ -1,0 +1,1 @@
+("6.3" ("68401cf7240ea88742cefe8ef46ea4b0a7eda1a3" . "00067c9ecab161b775bc43ab562696497983de02") #"/home/jason/Downloads/335hw7/hw07-env-values.rkt" #"/home/jason/Downloads/335hw7/hw07-lang.rkt" (collects #"eopl" #"eopl.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
